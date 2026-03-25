@@ -38,17 +38,6 @@ It focuses on delivering a smooth and responsive user experience for planning ev
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your deployed link here if available)
-
----
-
-## 📸 Screenshots
-
-(Add 2–3 screenshots of your website here)
-
----
 
 ## 🚀 Future Enhancements
 
